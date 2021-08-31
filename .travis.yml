@@ -22,4 +22,3 @@ after_success:
   - docker push ryanmarinoff/multi-nginx
   - docker push ryanmarinoff/multi-server
   - docker push ryanmarinoff/multi-worker
-  
